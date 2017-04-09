@@ -14,3 +14,4 @@ This repository contains various algorithms and data structure problems.
 | [optimized_prime_factors.c](/optimized_prime_factors.c)  | Printing prime factors of a number less than 1000 using sieve of eratosthenes |
 | [credit_card_validation.c](/credit_card_validation.c)  | Check if a credit card number is valid based on Luhn's algorithm |
 | [initials.c](/initials.c)  | Generate initials of a given name |
+| [caesar_cipher.c](/caesar_cipher.c)  | Encrypts text using Caesar’s cipher |
