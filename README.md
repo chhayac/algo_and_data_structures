@@ -15,3 +15,4 @@ This repository contains various algorithms and data structure problems.
 | [credit_card_validation.c](/credit_card_validation.c)  | Check if a credit card number is valid based on Luhn's algorithm |
 | [initials.c](/initials.c)  | Generate initials of a given name |
 | [Caesar_cipher.c](/Caesar_cipher.c)  | Encrypts text using Caesar’s cipher |
+| [vigenere_cipher.c](/vigenere_cipher.c)  | Encrypts text using Vigenere’s cipher |
