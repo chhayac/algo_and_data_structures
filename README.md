@@ -17,3 +17,5 @@ This repository contains various algorithms and data structure problems.
 | [Caesar_cipher.c](/Caesar_cipher.c)  | Encrypts text using Caesar’s cipher |
 | [vigenere_cipher.c](/vigenere_cipher.c)  | Encrypts text using Vigenere’s cipher |
 | [unit_converter.c](/unit_converter.c)  | Unit converter (Temperature, Currency and Weight) |
+| [factorial_loop.c](/factorial_loop.c)  | Calculate factorial of a positive number using loop |
+| [factorial_recursion.c](/factorial_recursion.c)  | Calculate factorial of a positive number using recursion method |
