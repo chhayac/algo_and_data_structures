@@ -16,3 +16,4 @@ This repository contains various algorithms and data structure problems.
 | [initials.c](/initials.c)  | Generate initials of a given name |
 | [Caesar_cipher.c](/Caesar_cipher.c)  | Encrypts text using Caesar’s cipher |
 | [vigenere_cipher.c](/vigenere_cipher.c)  | Encrypts text using Vigenere’s cipher |
+| [unit_converter.c](/unit_converter.c)  | Unit converter (Temperature, Currency and Weight) |
