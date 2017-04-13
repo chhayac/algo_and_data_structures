@@ -20,3 +20,4 @@ This repository contains various algorithms and data structure problems.
 | [factorial_loop.c](/factorial_loop.c)  | Calculates factorial of a positive number using loop |
 | [factorial_recursion.c](/factorial_recursion.c)  | Calculates factorial of a positive number using recursion method |
 | [average_using_arrays.c](/average_using_arrays.c)  | Calculates average using arrays |
+| [power_of_two.c](/power_of_two.c)  | Checks if an integer is a power of two |
