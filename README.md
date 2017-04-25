@@ -24,3 +24,4 @@ This repository contains various algorithms and data structure problems.
 | [palindrome.c](/palindrome.c)  | Checks if an input string is a palindrome or not |
 | [happy_number.c](/happy_number.c)  | Checks if a given positive number is a happy number or not |
 | [reverse_string.c](/reverse_string.c)  | Print the reverse of a string |
+| [string_operations.c](/string_operations.c)  | Perform string operations copy and compare without using string functions. |
