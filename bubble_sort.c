@@ -5,6 +5,7 @@
  *
  *  Enter the size of the array: 1000
  *  Max size of array is 100. Please enter value less than 100
+ *  Enter the size of the array: 
  */
 
 #include <stdio.h>
@@ -22,12 +23,15 @@ int main(void)
 {
     int arr[MAX_SIZE];
     int size_array;
-    printf("Enter the size of the array: ");
-    scanf("%d",&size_array);
-    if(size_array > MAX_SIZE)
+    do
     {
-        printf("Max size of array is 100. Please enter value less than 100.\n");
-    }
+        printf("Enter the size of the array: ");
+        scanf("%d",&size_array);
+        if(size_array > MAX_SIZE)
+        {
+            printf("Max size of array is 100. Please enter value less than 100.\n");
+        }
+    }while(size_array > MAX_SIZE);
     printf("Enter %d elements in the array: ", size_array);
     for(int i = 0; i < size_array; i++)
     {
