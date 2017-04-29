@@ -1,4 +1,8 @@
-/*  Program for impelmentation of bubble sort
+/*  Program to implement Bubble Sort
+ *  Bubble Sort is a sorting algorithm that works by repeatedly 
+ *  swapping the adjacent elements if they are in wrong order.
+ *
+ *  Example:
  *  Enter the size of the array:4
  *  Enter 4 elements in the array: 10 2 1 4
  *  Sorted array is: 1 2 4 10
