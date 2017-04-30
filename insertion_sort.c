@@ -7,7 +7,7 @@
  *  5 11 12 13
  *  
  *  Enter the number of elements in the array: 120
- *  Please enter value less than 50
+ *  Please enter value less than 100
  *  Enter the number of elements in the array:
  */
 
