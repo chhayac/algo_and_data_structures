@@ -30,3 +30,4 @@ This repository contains various algorithms and data structure problems.
 | [binary_search.c](/binary_search.c)  | Search an element using binary search iterative approach |
 | [selection_sort.c](/selection_sort.c)  | Implement Selection Sort |
 | [insertion_sort.c](/insertion_sort.c)  | Implement Insertion Sort |
+| [linear_search.c](/linear_search.c)  | Search element of an array using linear search |
