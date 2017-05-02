@@ -31,3 +31,4 @@ This repository contains various algorithms and data structure problems.
 | [selection_sort.c](/selection_sort.c)  | Implement Selection Sort |
 | [insertion_sort.c](/insertion_sort.c)  | Implement Insertion Sort |
 | [linear_search.c](/linear_search.c)  | Search element of an array using linear search |
+| [merge_sort.c](/merge_sort.c)  | Implement Merge Sort |
