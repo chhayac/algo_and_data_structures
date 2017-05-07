@@ -33,4 +33,5 @@ This repository contains various algorithms and data structure problems.
 | [linear_search.c](/linear_search.c)  | Search element of an array using linear search |
 | [merge_sort.c](/merge_sort.c)  | Implement Merge Sort |
 | [quick_sort.c](/quick_sort.c)  | Implement Quick Sort |
-| [smallest_missing.c](/smallest_missing.c)  | Find smallest missing element in a sorted array of distinct non-negative integers. |
+| [smallest_missing.c](/smallest_missing.c)  | Find smallest missing element in a sorted array of distinct non-negative integers|
+| [anagram.c](/anagram.c)  | Determine if two strings are anagrams or not |
