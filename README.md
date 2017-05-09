@@ -35,3 +35,4 @@ This repository contains various algorithms and data structure problems.
 | [quick_sort.c](/quick_sort.c)  | Implement Quick Sort |
 | [smallest_missing.c](/smallest_missing.c)  | Find smallest missing element in a sorted array of distinct non-negative integers|
 | [anagram.c](/anagram.c)  | Determine if two strings are anagrams or not |
+| [triplet.c](/triplet.c)  | Find Triplet with given sum in an unsorted array |
