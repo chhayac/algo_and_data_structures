@@ -37,4 +37,5 @@ This repository contains various algorithms and data structure problems.
 | [anagram.c](/anagram.c)  | Determine if two strings are anagrams or not |
 | [triplet.c](/triplet.c)  | Determine if triplet exist with given sum in an unsorted array |
 | [unsorted_subarray.c](/unsorted_subarray.c)  | Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted |
+| [first_last_occurence.c](/first_last_occurence.c)  | Determine the first and last occurence of an element in a sorted array |
 
