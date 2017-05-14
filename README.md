@@ -38,4 +38,5 @@ This repository contains various algorithms and data structure problems.
 | [triplet.c](/triplet.c)  | Determine if triplet exist with given sum in an unsorted array |
 | [unsorted_subarray.c](/unsorted_subarray.c)  | Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted |
 | [first_last_occurence.c](/first_last_occurence.c)  | Determine the first and last occurence of an element in a sorted array |
+| [max_numeric_value.c](/max_numeric_value.c)  | Extract maximum numeric value from an alphanumeric string |
 
