@@ -39,4 +39,6 @@ This repository contains various algorithms and data structure problems.
 | [unsorted_subarray.c](/unsorted_subarray.c)  | Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted |
 | [first_last_occurence.c](/first_last_occurence.c)  | Determine the first and last occurence of an element in a sorted array |
 | [max_numeric_value.c](/max_numeric_value.c)  | Extract maximum numeric value from an alphanumeric string |
-
+| [odd_times.c](/odd_times.c)  | Find the number occuring odd number of times |
+| [missing_number.c](/missing_number.c)  | Find the missing number from a list of n-1 integers |
+| [build_max_heap.c](/build_max_heap.c)  | Program to build max heap with an input array |
