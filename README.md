@@ -43,3 +43,4 @@ This repository contains various algorithms and data structure problems.
 | [missing_number.c](/missing_number.c)  | Find the missing number from a list of n-1 integers |
 | [build_max_heap.c](/build_max_heap.c)  | Program to build max heap with an input array |
 | [heap_sort.c](/heap_sort.c)  | Program to sort an array using Heap Sort algorithm |
+| [bst_search.c](/bst_search.c)  | Program to search a key in Binary Search Tree |
