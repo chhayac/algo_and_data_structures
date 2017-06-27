@@ -47,5 +47,5 @@ This repository contains various algorithms and data structure problems.
 | [bst_delete.c](/bst_delete.c) | Program to delete a node with a key in Binary Search Tree |
 | [counting_sort.c](/counting_sort.c) | Program to sort numbers using Counting sort |
 | [merge_trees.c](/merge_trees.c) | Program to merge two binary trees |
-| [hamming_distance.c](/hamming_distance.c) | Program to calculate Hamming distance between two integers |
+| [hamming_distance.c](/hamming_distance.c) | Program to calculate Hamming distance between two integers. |
 
