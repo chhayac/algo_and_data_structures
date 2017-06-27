@@ -44,8 +44,10 @@ This repository contains various algorithms and data structure problems.
 | [build_max_heap.c](/build_max_heap.c)  | Program to build max heap with an input array |
 | [heap_sort.c](/heap_sort.c)  | Program to sort an array using Heap Sort algorithm |
 | [bst_insert.c](/bst_insert.c)  | Program to insert nodes with given keys in a Binary Search Tree |
+| [bst_search.c](/bst_search.c)  | Program to search node with given key in a Binary Search Tree |
 | [bst_delete.c](/bst_delete.c) | Program to delete a node with a key in Binary Search Tree |
+| [bst_or_not.c](/bst_or_not.c) | Program to check if a binary tree is BST or not |
 | [counting_sort.c](/counting_sort.c) | Program to sort numbers using Counting sort |
 | [merge_trees.c](/merge_trees.c) | Program to merge two binary trees |
-| [hamming_distance.c](/hamming_distance.c) | Program to calculate Hamming distance between two integers. |
+| [hamming_distance.c](/hamming_distance.c) | Program to calculate Hamming distance between two integers |
 
