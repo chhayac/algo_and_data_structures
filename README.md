@@ -43,7 +43,7 @@ This repository contains various algorithms and data structure problems.
 | [missing_number.c](/missing_number.c)  | Find the missing number from a list of n-1 integers |
 | [build_max_heap.c](/build_max_heap.c)  | Program to build max heap with an input array |
 | [heap_sort.c](/heap_sort.c)  | Program to sort an array using Heap Sort algorithm |
-| [bst_insert.c](/bst_insert.c)  | Program to insert nodes with given keys in a Binary Search Tree |
+| [bst_insert.c](/bst_insert.c)  | Program to insert nodes with given keys in a Binary Search Tree. |
 | [bst_search.c](/bst_search.c)  | Program to search node with given key in a Binary Search Tree |
 | [bst_delete.c](/bst_delete.c) | Program to delete a node with a key in Binary Search Tree |
 | [bst_or_not.c](/bst_or_not.c) | Program to check if a binary tree is BST or not |
