@@ -49,6 +49,7 @@ This repository contains various algorithms and data structure problems.
 | [bst_or_not.c](/bst_or_not.c) | Program to check if a binary tree is BST or not |
 | [counting_sort.c](/counting_sort.c) | Program to sort numbers using Counting sort |
 | [merge_trees.c](/merge_trees.c) | Program to merge two binary trees |
-| [hamming_distance.c](/hamming_distance.c) | Program to calculate Hamming distance between two integers. |
+| [hamming_distance.c](/hamming_distance.c) | Program to calculate Hamming distance between two integers |
 | [binary_tree_vertical.c](/binary_tree_vertical.c) | Program to print a vertical binary tree |
+| [number_complement.c](/number_complement.c) | Program to output complement of a positive integer |
 
