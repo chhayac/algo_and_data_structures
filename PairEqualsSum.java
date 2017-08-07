@@ -31,11 +31,11 @@ public static void main(String args[]) {
         boolean ifPrinted = printpairs(A,target);
         if (ifPrinted)
         {
-            System.out.println("Found pair");
+            System.out.println("True");
         }
         else
         {
-            System.out.println("Did not find pair");
+            System.out.println("False");
         }
     }  
 }
